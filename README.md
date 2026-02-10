@@ -2,41 +2,42 @@ Seattle Coffee Co. Website
 
 A responsive, multi-page website for Seattle Coffee Co., built as a web development internship project to demonstrate HTML, CSS, and JavaScript skills.
 
-Features
+FEATURES:
 
-Home Page: Hero section with call-to-action button, highlights premium coffee and café comfort.
+-Home Page: Hero section with call-to-action button, highlights premium coffee and café comfort.
 
-Gallery: Interactive image slider with next/previous buttons.
+-Gallery: Interactive image slider with next/previous buttons.
 
-About Section: Company story, values, and milestones with scrolling images slideshow.
+-About Section: Company story, values, and milestones with scrolling images slideshow.
 
-Locations Page: List of café locations with Google Maps links.
+-Locations Page: List of café locations with Google Maps links.
 
-Customer Favorites: Showcases popular drinks with images.
+-Customer Favorites: Showcases popular drinks with images.
 
-Contact Section: Simple form with validation for name, email, and message.
+-Contact Section: Simple form with validation for name, email, and message.
 
-Responsive Design: Mobile-friendly with hamburger menu and flexible layouts.
+-Responsive Design: Mobile-friendly with hamburger menu and flexible layouts.
 
-Technologies Used
+TECHNOLOGIES USED:
 
-HTML5 – Semantic structure and markup
+-HTML5 – Semantic structure and markup
 
-CSS3 – Styling, Flexbox, and responsive design
+-CSS3 – Styling, Flexbox, and responsive design
 
-JavaScript – Interactive gallery, hamburger menu, and contact form validation
+-JavaScript – Interactive gallery, hamburger menu, and contact form validation
 
-Mobile-Friendly Features
+MOBILE-FRIENDLY FEATURES
 
-Navbar transforms into a hamburger menu on smaller screens
+-Navbar transforms into a hamburger menu on smaller screens
 
-Features and gallery images stack vertically for readability
+-Features and gallery images stack vertically for readability
 
-Hero text and buttons scale for mobile devices
+-Hero text and buttons scale for mobile devices
 
-Contact form adapts to smaller screens
+-Contact form adapts to smaller screens
 
-Project Structure
+PROJECT-STRUCTURE:
+
 /Seattle-Coffee-Website
 │
 ├─ index.html       # Home page
@@ -48,27 +49,26 @@ Project Structure
 ├─ script.js        # JavaScript for gallery, hamburger menu, and contact form
 └─ images/          # Logo and sample images
 
-Running Locally
+RUNNING LOCALLY:
 
-Clone the repository:
+-Clone the repository:
 
-git clone https://github.com/yourusername/seattle-coffee-website.git
+-git clone https://github.com/yourusername/seattle-coffee-website.git
 
+-Open index.html in your browser.
 
-Open index.html in your browser.
+-Navigate through the pages and interact with the gallery and contact form.
 
-Navigate through the pages and interact with the gallery and contact form.
+PROJECT PURPOSE:
 
-Project Purpose
+-Build a professional website for a local business (fictional for demo purposes)
 
-Build a professional website for a local business (fictional for demo purposes)
+-Showcase responsive design and interactive features
 
-Showcase responsive design and interactive features
+-Demonstrate HTML, CSS, and JavaScript skills
 
-Demonstrate HTML, CSS, and JavaScript skills
+NOTES:
 
-Notes
+-Images are sourced from Unsplash for demonstration purposes.
 
-Images are sourced from Unsplash for demonstration purposes.
-
-Gallery slider and contact form are fully functional.
+-Gallery slider and contact form are fully functional.
