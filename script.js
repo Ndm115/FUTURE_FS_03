@@ -1,4 +1,4 @@
-// Hamburger menu
+
 const hamburger = document.getElementById("hamburger");
 const navLinks = document.getElementById("nav-links");
 
@@ -9,12 +9,10 @@ if (hamburger) {
   });
 }
 
-// Smooth scroll
 function scrollToSection(id) {
   document.getElementById(id).scrollIntoView({ behavior: "smooth" });
 }
 
-// Gallery images
 const images = [
   "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&q=80",
   "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
@@ -41,12 +39,10 @@ function prevImage() {
   showImage(currentImage);
 }
 
-// Initialize gallery
 document.addEventListener("DOMContentLoaded", () => {
   showImage(currentImage);
 });
 
-// Contact form
 const contactForm = document.getElementById("contactForm");
 if (contactForm) {
   contactForm.addEventListener("submit", function(e) {
