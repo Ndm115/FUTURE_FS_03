@@ -2,6 +2,16 @@ Seattle Coffee Co. Website
 
 A responsive, multi-page website for Seattle Coffee Co., built as a web development internship project to demonstrate HTML, CSS, and JavaScript skills.
 
+
+**Seattle Coffee Co. Website Pitch**
+
+Seattle Coffee Co. is a well-known café brand offering premium coffee, fresh pastries, and welcoming spaces for customers to relax, work, and connect.
+
+Many local café customers search online before visiting, but without a strong digital presence, businesses can miss potential foot traffic and lose credibility. This website solves that problem by providing clear information about the brand, menu offerings, locations, and contact details in one professional, easy-to-navigate space.
+
+The website helps attract customers by showcasing customer favorites, creating a strong first impression through modern design, and making it easy to find locations via Google Maps. With mobile-friendly design and interactive features, it builds trust, improves accessibility, and encourages more in-store visits.
+
+
 FEATURES:
 
 -Home Page: Hero section with call-to-action button, highlights premium coffee and café comfort.
